@@ -1,8 +1,8 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-let rootDomain = "herikebabaidul.workers.dev";
-let serviceName = "herawa";
+let rootDomain = "";
+let serviceName = "";
 let APP_DOMAIN = "";
 
 const apiKey = ""; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
